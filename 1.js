@@ -78,4 +78,23 @@
 // var person =new aa("conky","lerner",22);
 // person.say();
 
-
+// function aa() {
+//     var values = new Array();
+//     values.push.apply(values, arguments);
+//     values.changestring = function () {
+//         return this.join("|")      //返回的对象与构造函数或者构造函数的原型属性没有关系
+//     };
+// return values;
+// }
+// var color=new aa("red","green","blue")
+// alert(color.changestring());
+// function aa(name, job, age) {
+//     var o = new Object();           //与寄生构造函数类似,不引用this和不使用new /安全性高
+//
+//     o.say = function () {
+//         alert( job)
+//     }
+//     return o
+// }
+// var person = aa("conky","web learner",18);
+// person.say();
