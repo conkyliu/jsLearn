@@ -1,3 +1,5 @@
+
+//---创建对象---
 // function aa() {
 //     aa.prototype.name = "conky"; //每个构造函数自带prototype属性 可共享其属性和方法
 //     aa.prototype.job = "web learner";
@@ -98,3 +100,173 @@
 // }
 // var person = aa("conky","web learner",18);
 // person.say();
+
+//---继承---
+// function SuperType() {
+//     this.property = true;
+// }
+//
+// SuperType.prototype.getSuperValue = function () {
+//     return this.property;
+// };
+//
+// function SubType() {
+//     this.subproperty = false;
+//
+// }
+//
+// SubType.prototype = new SuperType();
+// SubType.prototype.getSubValue = function () {
+//     return this.subproperty;
+// };
+// var instance = new SubType();
+// alert(instance.getSuperValue());
+
+// function aa() {
+//     this.ii = true;
+//
+// };
+// aa.prototype.getaa = function
+//     () {
+//     return this.ii
+// };
+//
+// function bb() {
+//     this.kk = false;
+// }
+//
+// bb.prototype = new aa();  //继承了aa 使得bb拥有aa的属性和方法
+// bb.prototype.getbb = function () {
+//     return this.kk;
+// };
+// var cc = new bb();  //a=b,c=b,故c=a
+// alert(cc.getaa());
+
+// function aa() {
+//     this.ii = true;
+// };
+
+// aa.prototype.getaa = function () {
+//     return this.ii;
+// };
+// function bb(){
+//      this.kk= false;
+// }
+// bb.prototype=function getbb(){
+//     return this.kk;
+// };
+// bb.prototype=new aa();  //继承aa
+// bb.prototype.getbb=function(){  //添加新方法
+//     return this.bb
+// };
+// bb.prototype.getaa=function (){   //重写超类型中的方法
+//     return false;
+// };
+// var cc=new bb();  //调用的是重写的方法
+// var dd=new aa();  //调用的是原来的方法
+// alert(cc.getaa()); //false
+// alert(dd.getaa());  //true
+
+
+// function aa() {
+//     this.ii = true;
+// };
+// aa.prototype = function getaa() {
+//     return this.ii;
+// };
+//
+// function bb() {
+//     this.kk = false;
+// }
+//
+// bb.prototype = function getbb() {
+//     return this.kk;
+// };
+// bb.prototype = new aa(); //继承
+// bb.prototype = {
+//     getbb: function () {  //使用字面量添加新方法,会导致上一行的代码无效
+//         return this.bb
+//     },
+//
+// };
+// var cc = new bb();
+//
+// alert(cc.getaa());  //ereor
+//原型链
+// function aa() {
+//     this.color = ["red", "green", "blue"];
+// };
+// function bb(){
+// }
+// bb.prototype=new aa(); //继承
+// var cc= new bb();
+//
+// cc.color.push('black');
+// alert(cc.color);
+// var dd= new bb();
+// alert(dd.color);  //bb()属性的值被共享了
+//
+//借用构造函数
+// function aa() {
+//     this.color = ["red", "blue", "yellow"];
+// }
+//
+// function bb() {
+//     aa.call(this) //继承
+// }
+//
+// var cc = new bb();
+// cc.color.push("black");
+// alert(cc.color);
+// var dd=new bb();
+// alert(dd.color); //bb()属性的值不会被共享
+// function aa(name) {
+//     this.name = name; //属性名等于参数名
+//
+// }
+//
+// function bb() {
+//     aa.call(this, "conky"); //继承和传递参数
+//     this.age = 22; //实例属性
+// }
+//
+// var cc = new bb();
+// alert(cc.name);
+// var dd = new aa("liu");
+// alert(dd.name);
+// function aa(name) {
+//     this.name = name;
+//     this.color = ["red", "green", "blue"];
+// }
+//
+// aa.prototype.sayname = function () {
+//     alert(this.name);
+// };
+//组合继承
+// function bb(name, age) {
+//     aa.call(this, name);  //继承属性
+//     this.age = age;
+// }
+//
+// bb.prototype = new aa();  //继承方法
+// bb.prototype.constructor = bb;
+// bb.prototype.sayage = function () {
+//     alert(this.age);
+// };
+// bb.prototype.num=function(num1,num2){
+//    num=num1+num2;
+//     alert(num);
+// };
+// var cc = new bb("conky", 22);
+// cc.color.push("black");
+// alert(cc.color);
+// cc.sayname();
+// cc.sayage();
+// cc.num(3,4);
+// var dd = new aa("liu", 66);
+// alert(dd.color);
+// dd.sayname();
+// dd.sayage();
+// dd.num(1,2);
+
+
