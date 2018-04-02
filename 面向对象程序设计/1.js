@@ -1,4 +1,3 @@
-
 //---创建对象---
 // function aa() {
 //     aa.prototype.name = "conky"; //每个构造函数自带prototype属性 可共享其属性和方法
@@ -268,5 +267,69 @@
 // dd.sayname();
 // dd.sayage();
 // dd.num(1,2);
+//原型式继承
+// var person={
+//     name:"conky",
+//     id:[1,2,3]
+// };
+// var person2=Object(person);
+// person2.name="liu";
+// person2.id.push(4);
+// alert(person2.id);
+// var person3=Object(person);
+// person3.name="ling";
+// person3.id.push(5);
+// alert(person3.id);
+// alert(person.id);
+//寄生式继承
+// function aa(ii) {
+//     var clone = Object(ii);  //通过调用函数创建一个新对象
+//     clone.sayhi = function () {  //某种方式来增强这个对象
+//         alert("hi")
+//     };
+//     return clone;    //返回这个对象
+// }
+// var person={
+//     name:"conky",
+//     age:22,
+//
+// };
+// var person2=aa(person);
+// person2.sayhi();
+//寄生组合式继承:
+function aa(cc,bb){
+    var ii=Object(bb.prototype);  //创建对象
+    ii.constructor=cc;            //增强对象
+    cc.prototype=ii;              //指定对象
+}
+function bb(name){
+    this.name=name;
+    this.color=["red","blue","green"];
+
+}
+bb.prototype.sayname=function(){
+    alert(this.name);
+};
+function cc(name,age){
+    bb.call(this,name); //继承bb.name
+    this.age=age;
+}
+aa(cc,bb);
+cc.prototype.sayage=function(){
+    alert(this.age)
+};
+var dd=new cc("conky",22);
+dd.color.push("black");
+alert(dd.color);
+dd.sayname();
+dd.sayage();
+var ff= new bb("liu",66);
+alert(ff.color);
+ff.sayname();
+ff.sayage(); //undifined bb没有这个属性 cc不共享
+
+
+
+
 
 
