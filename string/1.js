@@ -112,4 +112,4 @@
 // var name="conky liu";
 // var newname=name.replace(re,"$2,guanqi");//$1,$2对应圆括号的值
 // document.write(newname);
-
+//
