@@ -113,3 +113,98 @@
 // var newname=name.replace(re,"$2,guanqi");//$1,$2对应圆括号的值
 // document.write(newname);
 //
+// function aa(name) {
+//     function bb(search) {  //用match或search 返回的结果一样;
+//         return '-' + search.toLowerCase();  //所有出现的大写字母转换为小写，并且在匹配位置前加一个连字符。重要的是，在返回一个替换了的字符串前需要在匹配元素前需要进行添加操作。
+//         // 在返回前，替换函数允许匹配片段作为参数，并且将它和连字符进行连接作为新的片段。
+//
+//     }
+//
+//     return name.replace(/[A-Z]/g, bb);
+// }
+//
+// var cc = aa("conkyLiu");
+// alert(cc);
+
+// function ff(x) {
+//     function bb(str, p1, offset, s) {
+//         return ((p1 - 32) / 1.8) + "C"  //将华氏温度转换成对等的摄氏温度;
+//     }
+//
+//     var s = String(x);
+//     var test = /(\d+(?:\.\d*)?)F\b/g;
+//     return s.replace(test, bb);
+// }
+//
+// var cc = ff("26.6F");
+// alert(cc);
+
+// function aa(x){
+//     function bb(str,p1) { //参数为一个p1会出错,str可换成其他的
+//         return (p1*0.4535924*2) +"斤"  //磅转换成斤
+//     }
+//     var s= new String(x);
+//     var reg=/(\d*)lb\b/g;
+//     return s.replace(reg,bb);
+// }
+// var cc=aa("12lb");
+// alert(cc);
+
+// var  name="my name is conky,id:123";
+// var reg= /123/g;     // search() 返回正则表达式在字符串中首次匹配项的索引(数字)。否则，返回 -1。
+// console.log(name.search(reg));
+
+// var  str1="123456789";
+// var str2=str1.slice(4,-2);  //负数表示从结尾处开始,
+// alert(str2);                 //slice() 方法提取一个字符串的一部分，并返回一新的字符串。
+
+// var name="my name is conky";
+// console.log(name.split(" ")); //使用指定的分隔符字符串将一个String对象分割成字符串数组，以将字符串分隔为子字符串，以确定每个拆分的位置。
+//
+// var name="C o n k y";
+// var reg=/\s*/;
+// var aa=name.split(reg,3);
+// document.write(aa);
+// var str="today 1 is nice 2 day";
+// var aa=str.split(/(\d)/);  //如果 separator 包含捕获括号（capturing parentheses），则其匹配结果将会包含在返回的数组中。
+// console.log(aa);
+
+// var str="1234567890";
+// console.log(str.substr(-7,3));  //通过指定字符数返回在指定位置开始的字符串中的字符。
+
+// var num="0123456789";  //返回一个字符串在开始索引到结束索引之间的一个子集, 或从开始索引直到字符串的末尾的一个子集。
+// console.log(num.substring(2,-2)) //任一参数小于 0 或为 NaN，则被当作 0。
+// console.log(num.substring(num.length-5));
+
+// var word="AQWSEDRFTGYHUJ";
+// console.log(word.toLocaleLowerCase()); //小写
+// console.log(word.toUpperCase()); //大写
+// function change(word) {
+//     function aa(str) {
+//         return str.toUpperCase();
+//     }
+//
+//     return word.replace(/\s[a-z]/g, aa);
+//
+// }
+//
+// var cc = change(" love is everywhere. We have love from our parents and friends, which makes us become stronger. Without love, we can’ survive long, or we will just like the walking dead.");
+// document.write(cc);
+//string 方法:
+// var str="abc123!?@";
+// console.log(str.charAt(0));
+// console.log(str.charCodeAt("abc"));
+// console.log(str.indexOf("123"));
+// console.log(str.lastIndexOf("@"));
+// console.log(str.match("@"));
+// var re=/\d/g;
+// var str2=6;
+// console.log(str.replace(re,str2));
+// console.log(str.search("!"));
+// console.log(str.slice(2,-2));
+// console.log(str.split("c"));
+// console.log(str.toUpperCase());
+// console.log(str.substr(2,3));
+// console.log(str.substring(2,3));
+// console.log(str.toString());
+// console.log(str.valueOf());
