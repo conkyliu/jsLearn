@@ -141,3 +141,8 @@ function aa(element) {
 // });
 // console.log(arr3);
 
+var num="83";
+var re=/\d/g;
+var arr=['壹','贰','叁','肆','伍','陆','柒','捌','玖'];
+console.log(arr[num-1]);
+console.log(num.match(re));
