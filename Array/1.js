@@ -126,18 +126,18 @@ function aa(element) {
 // }).reverse().join("");
 // console.log(str2);
 
-var sum=[0,1,2,3,4].reduce(function(a,b){
-    return a+b;  //从左到右为每个数组元素执行一次回调函数，并把上次回调函数的返回值放在一个暂存器中传给下次回调函数，并返回最后一次回调函数的返回值
-},0);
-console.log(sum); //数组里所有值的和
-
-var arr=[[0,1],[2,3],[4,5]];
-var arr2=arr.reduce(function(a,b){
-    return a.concat(b); //将二维数组转化为一维
-},[]);
-console.log(arr2);
-var arr3=arr.reduceRight(function(a,b){
-    return a.concat(b);  //从左到右为每个数组元素执行一次回调函数，并把上次回调函数的返回值放在一个暂存器中传给下次回调函数，并返回最后一次回调函数的返回值
-});
-console.log(arr3);
+// var sum=[0,1,2,3,4].reduce(function(a,b){
+//     return a+b;  //从左到右为每个数组元素执行一次回调函数，并把上次回调函数的返回值放在一个暂存器中传给下次回调函数，并返回最后一次回调函数的返回值
+// },0);
+// console.log(sum); //数组里所有值的和
+//
+// var arr=[[0,1],[2,3],[4,5]];
+// var arr2=arr.reduce(function(a,b){
+//     return a.concat(b); //将二维数组转化为一维
+// },[]);
+// console.log(arr2);
+// var arr3=arr.reduceRight(function(a,b){
+//     return a.concat(b);  //从左到右为每个数组元素执行一次回调函数，并把上次回调函数的返回值放在一个暂存器中传给下次回调函数，并返回最后一次回调函数的返回值
+// });
+// console.log(arr3);
 
