@@ -208,3 +208,29 @@
 // console.log(str.substring(2,3));
 // console.log(str.toString());
 // console.log(str.valueOf());
+// var str = "asdsdfdfg13345kwd";
+// console.log(str.slice(1, -3));
+// console.log(str.substr(1, 6));
+// console.log(str.substring(1, 6));
+// console.log(str.split(''));
+// var num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// var num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// for (let i = 0; i < num.length; ++i) {
+//     for (var k = 0; k < num2.length; k++) {
+//         var aa = [];
+//         aa = num[i] * num2[k];
+//     }
+//
+//
+// }
+// document.write(aa);
+//
+// document.write("<table width='10' border='1'");
+// for(var i=0; i<=9; i++){
+//     document.write("<tr>");
+//     for(var j=0; j<=i; j++){
+//         document.write("<td>"+ j +"*"+ i +"="+ i*j +"</td>");
+//     }
+//     document.write("</tr>");
+// }
+// document.write("</table>");

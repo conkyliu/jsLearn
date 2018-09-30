@@ -83,9 +83,9 @@
 //     }
 // });
 
-function aa(element) {
-    return (element >= 10)
-}
+// function aa(element) {
+//     return (element >= 10)
+// }
 
 // var num1=[10,12,3,12].every(aa);  //如果数组中的每个元素都满足测试函数，则返回true，否则返回false。
 // console.log(num1);
@@ -141,8 +141,8 @@ function aa(element) {
 // });
 // console.log(arr3);
 
-var num="83";
-var re=/\d/g;
+var num=2;
+
 var arr=['壹','贰','叁','肆','伍','陆','柒','捌','玖'];
 console.log(arr[num-1]);
-console.log(num.match(re));
+

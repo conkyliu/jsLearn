@@ -1,0 +1,5634 @@
+{
+  "data": {
+
+    "food_spu_tags": [
+      {
+        "tag": "59622920",
+        "name": "新品上市",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 6,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 0,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 798914548,
+            "name": "芒果盒子蛋糕",
+            "min_price": 17,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "份",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproduct/fffab12b20a30be7c8c6bddc5fb08f49358087.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866019203,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproduct/fffab12b20a30be7c8c6bddc5fb08f49358087.jpg",
+                "price": 17,
+                "origin_price": 17,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "59622920",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "29634347",
+        "name": "鲜食",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 3,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 4,
+        "activity_tag": "",
+        "spus": [
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "63467568",
+        "name": "咖啡",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 19,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 4,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 779952984,
+            "name": "经典85咖啡(冷)-大杯",
+            "min_price": 15,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401198,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401199,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401200,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401201,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401202,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401203,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401204,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401205,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401206,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845365998,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+                "price": 15,
+                "origin_price": 15,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955523,
+            "name": "醇粹拿铁咖啡(冷)-中杯",
+            "min_price": 16,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/d8a90d9ab650a31ab1475d2fd8b9d7e3112403.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401225,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401226,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401227,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401228,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401229,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401230,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401231,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401232,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401233,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845373002,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/d8a90d9ab650a31ab1475d2fd8b9d7e3112403.jpg",
+                "price": 16,
+                "origin_price": 16,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953725,
+            "name": "黑糖玛奇朵(热)-大杯",
+            "min_price": 15,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401257,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401258,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401259,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401260,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401261,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370173,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+                "price": 15,
+                "origin_price": 15,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953712,
+            "name": "海岩咖啡(热)-中杯",
+            "min_price": 13,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/7c0d75c6d68ee07d4a94c3fe15275b51116217.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401152,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401153,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401154,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401155,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401156,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372095,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/7c0d75c6d68ee07d4a94c3fe15275b51116217.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779954508,
+            "name": "海岩咖啡(冷)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/7c0fb333054676e3643fbe153d364dd4113764.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401161,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401162,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401163,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401164,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401165,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401166,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401167,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401168,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401169,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845365993,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/7c0fb333054676e3643fbe153d364dd4113764.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779954510,
+            "name": "经典85咖啡(冷)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401184,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401185,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401186,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401187,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401188,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401189,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401190,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401191,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401192,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370165,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953714,
+            "name": "经典85咖啡(热)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401193,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401194,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401195,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401196,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401197,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845365997,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/e137ba2ccd050bf695a30e003595e048106305.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779954511,
+            "name": "醇粹美式咖啡(热)-中杯",
+            "min_price": 11,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372099,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+                "price": 11,
+                "origin_price": 11,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953717,
+            "name": "醇粹美式咖啡(冷)-中杯",
+            "min_price": 11,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/94da55524f8526e5d26cdfe87007431b112546.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401212,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401213,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401214,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401215,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401216,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401217,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401218,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401219,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401220,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372100,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/94da55524f8526e5d26cdfe87007431b112546.jpg",
+                "price": 11,
+                "origin_price": 11,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953718,
+            "name": "醇粹美式咖啡(热)-大杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371160,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953719,
+            "name": "醇粹美式咖啡(冷)-大杯",
+            "min_price": 13,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401221,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401222,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401223,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401224,
+                    "value": "多冰"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845373000,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/852d1cd1b56eda1b98e198166eb023cc115854.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953723,
+            "name": "黑糖玛奇朵(热)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401243,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401244,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401245,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401246,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401247,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370170,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955524,
+            "name": "黑糖玛奇朵(冷)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401248,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401249,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401250,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401251,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401252,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401253,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401254,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401255,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401256,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371163,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779952988,
+            "name": "黑糖玛奇朵(冷)-大杯",
+            "min_price": 15,
+            "praise_num": 2,
+            "praise_content": "赞2",
+            "tread_num": 0,
+            "praise_num_new": 2,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401262,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401263,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401264,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401265,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401266,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401267,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401268,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401269,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401270,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845373005,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/5fe3798989d72cd835497ae957579add70524.jpg",
+                "price": 15,
+                "origin_price": 15,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467568",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ]
+
+      },
+      {
+        "tag": "63467569",
+        "name": "奶茶",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 12,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 5,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 779953730,
+            "name": "英式奶茶(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/bebfdf5fba98ff1e56d4d52119df643c61130.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401368,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401369,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401370,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401371,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401372,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401373,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401374,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401375,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401376,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401377,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372104,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/bebfdf5fba98ff1e56d4d52119df643c61130.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955533,
+            "name": "珍珠奶茶(冷)-超级杯",
+            "min_price": 14,
+            "praise_num": 2,
+            "praise_content": "赞2",
+            "tread_num": 0,
+            "praise_num_new": 2,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/85ec27bde1e5876b684468ba8573ac8a76258.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401378,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401379,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401380,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401381,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401382,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401383,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401384,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401385,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401386,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401387,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401388,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401389,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401390,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401391,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372105,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/85ec27bde1e5876b684468ba8573ac8a76258.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779954516,
+            "name": "珍珠奶茶(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/2e6f6fb64f4a54028091f338d53756b976295.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401392,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401393,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401394,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401395,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401396,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401397,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401398,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401399,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401400,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401401,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845373014,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/2e6f6fb64f4a54028091f338d53756b976295.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955536,
+            "name": "布丁奶茶(冷)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 1,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/141b03a539411d9e60df5a31ef5ad60667036.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401421,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401422,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401423,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401424,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401425,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401426,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401427,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401428,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401429,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401430,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401431,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401432,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401433,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401434,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371170,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/141b03a539411d9e60df5a31ef5ad60667036.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955537,
+            "name": "布丁奶茶(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/fe60a3d22ddaa50a52d935bfb404fbc266977.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401435,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401436,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401437,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401438,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401439,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401440,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401441,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401442,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401443,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401444,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371171,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/fe60a3d22ddaa50a52d935bfb404fbc266977.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953731,
+            "name": "燕麦奶茶(冷)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/a8d652eb99d275b88bdcd08387f5006f71679.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401445,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401446,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401447,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401448,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401449,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401450,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401451,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401452,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401453,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401454,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401455,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401456,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401457,
+                    "value": "珍珠"
+                  },
+                  {
+                    "id": 282401458,
+                    "value": "嫩仙草"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370178,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/a8d652eb99d275b88bdcd08387f5006f71679.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953732,
+            "name": "燕麦奶茶(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/a8d652eb99d275b88bdcd08387f5006f71679.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401459,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401460,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401461,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401462,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401463,
+                    "value": "无糖"
+                  }
+                ]
+              },
+              {
+                "name": "加料",
+                "values": [
+                  {
+                    "id": 282401464,
+                    "value": "."
+                  },
+                  {
+                    "id": 282401465,
+                    "value": "红豆"
+                  },
+                  {
+                    "id": 282401466,
+                    "value": "布丁"
+                  },
+                  {
+                    "id": 282401467,
+                    "value": "嫩仙草"
+                  },
+                  {
+                    "id": 282401468,
+                    "value": "珍珠"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371172,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/a8d652eb99d275b88bdcd08387f5006f71679.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467569",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "64723574",
+        "name": "饮品",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 12,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 6,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 799033025,
+            "name": "松子核桃米浆(热)-中杯",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/a37c4bad79de1b961e6a96730027648189177.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401481,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401482,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401483,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401484,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401485,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167753,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/a37c4bad79de1b961e6a96730027648189177.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032061,
+            "name": "海岩奶绿(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/f65d516d03432f32f81644d80c3169ec63801.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401519,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401520,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401521,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401522,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401523,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866165941,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/f65d516d03432f32f81644d80c3169ec63801.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033027,
+            "name": "海岩奶绿(冷)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/f65d516d03432f32f81644d80c3169ec63801.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401501,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401502,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401503,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401504,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401505,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401506,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401507,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401508,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401509,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167760,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/f65d516d03432f32f81644d80c3169ec63801.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032063,
+            "name": "蜂蜜柚子茶(冷)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/0311cbe08a743322d77f5a5be7af30fe1537059.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401529,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401530,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401531,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401532,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401533,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401534,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401535,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401536,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401537,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866165942,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/0311cbe08a743322d77f5a5be7af30fe1537059.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032064,
+            "name": "蜂蜜柚子茶(热)-超级杯",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/952ac6a4dbacaaa3e0237251ed3eee991525812.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401538,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401539,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401540,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401541,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401542,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167766,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/952ac6a4dbacaaa3e0237251ed3eee991525812.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033029,
+            "name": "茉香鲜绿茶(冷)-中杯",
+            "min_price": 9,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/29b194cae48aa6627818d6b62dcf520967317.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "冷热",
+                "values": [
+                  {
+                    "id": 282401510,
+                    "value": "冰"
+                  },
+                  {
+                    "id": 282401511,
+                    "value": "去冰"
+                  },
+                  {
+                    "id": 282401512,
+                    "value": "少冰"
+                  },
+                  {
+                    "id": 282401513,
+                    "value": "多冰"
+                  }
+                ]
+              },
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401514,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401515,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401516,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401517,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401518,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167762,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/29b194cae48aa6627818d6b62dcf520967317.jpg",
+                "price": 9,
+                "origin_price": 9,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033031,
+            "name": "茉香鲜绿茶(热)-中杯",
+            "min_price": 9,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "杯",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/6f40bd3e86c0e911dc978425b63ea0ea73290.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+              {
+                "name": "甜度",
+                "values": [
+                  {
+                    "id": 282401524,
+                    "value": "全糖"
+                  },
+                  {
+                    "id": 282401525,
+                    "value": "七分糖"
+                  },
+                  {
+                    "id": 282401526,
+                    "value": "半糖"
+                  },
+                  {
+                    "id": 282401527,
+                    "value": "三分糖"
+                  },
+                  {
+                    "id": 282401528,
+                    "value": "无糖"
+                  }
+                ]
+              }
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167764,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/6f40bd3e86c0e911dc978425b63ea0ea73290.jpg",
+                "price": 9,
+                "origin_price": 9,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723574",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "63467565",
+        "name": "面包",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 14,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 7,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 799032071,
+            "name": "辣味酥松",
+            "min_price": 8,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/fb2f55f48acb09371517beb8be30a4d0124340.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167777,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/fb2f55f48acb09371517beb8be30a4d0124340.jpg",
+                "price": 8,
+                "origin_price": 8,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032073,
+            "name": "日式红豆包",
+            "min_price": 6,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/bd3d86671ce1d914e63942f2c0e74d9478191.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167778,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/bd3d86671ce1d914e63942f2c0e74d9478191.jpg",
+                "price": 6,
+                "origin_price": 6,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033037,
+            "name": "三顺培根",
+            "min_price": 7,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/86dfac52d0e9e8f9a637095fd3fd9c39114966.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167779,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/86dfac52d0e9e8f9a637095fd3fd9c39114966.jpg",
+                "price": 7,
+                "origin_price": 7,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033038,
+            "name": "番茄芝士",
+            "min_price": 5,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/ceeb2514218293560ab310755bac7575126534.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167780,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/ceeb2514218293560ab310755bac7575126534.jpg",
+                "price": 5,
+                "origin_price": 5,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032074,
+            "name": "咖喱鸡肉多拿滋",
+            "min_price": 7,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/dbc83dea10ecdf043f08b0840dd0aeb0203278.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866165949,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/dbc83dea10ecdf043f08b0840dd0aeb0203278.jpg",
+                "price": 7,
+                "origin_price": 7,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779952977,
+            "name": "黄金酥松面包",
+            "min_price": 8,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/76348006e5f2f17a6a746139be0495ba116029.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370156,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/76348006e5f2f17a6a746139be0495ba116029.jpg",
+                "price": 8,
+                "origin_price": 8,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779954500,
+            "name": "切达乳酪厚片",
+            "min_price": 8,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/284b85a7f3b1c931037ef1eb5b355e4e121710.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372088,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/284b85a7f3b1c931037ef1eb5b355e4e121710.jpg",
+                "price": 8,
+                "origin_price": 8,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955512,
+            "name": "黄桃面包",
+            "min_price": 6,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/23d27a1efa41fd0e01037c7e1ad720e9124511.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370161,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/23d27a1efa41fd0e01037c7e1ad720e9124511.jpg",
+                "price": 6,
+                "origin_price": 6,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779955513,
+            "name": "奶酥菠萝可颂",
+            "min_price": 9,
+            "praise_num": 2,
+            "praise_content": "赞2",
+            "tread_num": 0,
+            "praise_num_new": 2,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/3000a9ae90962683abc78183147e7566144076.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371156,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/3000a9ae90962683abc78183147e7566144076.jpg",
+                "price": 9,
+                "origin_price": 9,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "63467565",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "64723575",
+        "name": "点心",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 8,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 7,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 799033043,
+            "name": "起士球",
+            "min_price": 13,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "盒",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/0b673b3d9f80f46d0fa5dd2f628ba10481134.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866165955,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/0b673b3d9f80f46d0fa5dd2f628ba10481134.jpg",
+                "price": 13,
+                "origin_price": 13,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723575",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799033044,
+            "name": "蓝莓那提蛋糕",
+            "min_price": 12,
+            "praise_num": 1,
+            "praise_content": "赞1",
+            "tread_num": 0,
+            "praise_num_new": 1,
+            "unit": "盒",
+            "description": "",
+            "picture": "http: //p0.meituan.net/wmproductdwm/9fc43fe5b678e45bf0516096c26506a7115707.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866165956,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p0.meituan.net/wmproductdwm/9fc43fe5b678e45bf0516096c26506a7115707.jpg",
+                "price": 12,
+                "origin_price": 12,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723575",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 799032090,
+            "name": "现烤芝士挞(2入)",
+            "min_price": 14,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "盒",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/d2fb29d9183c46c7aacc3964febc80ae116837.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 866167797,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/d2fb29d9183c46c7aacc3964febc80ae116837.jpg",
+                "price": 14,
+                "origin_price": 14,
+                "box_num": 1,
+                "box_price": 0,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "64723575",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+              {
+                "picture_url": "http: //p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                "width": 60,
+                "height": 30
+              }
+            ],
+            "log_field": {
+              "product_label_type_list": [
+                2
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "32548506",
+        "name": "切片蛋糕",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 8,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 8,
+        "activity_tag": "",
+        "spus": [
+          {
+            "id": 779953751,
+            "name": "安格拉斯巧克力蛋糕",
+            "min_price": 15,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/400ce785f186bc383cf7a40e58619462273860.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845370204,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/400ce785f186bc383cf7a40e58619462273860.jpg",
+                "price": 15,
+                "origin_price": 15,
+                "box_num": 1,
+                "box_price": 1,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "32548506",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953752,
+            "name": "起士森林蛋糕",
+            "min_price": 15,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/bc5a4c832f154df182e61686fe45b7fb108690.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845372128,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/bc5a4c832f154df182e61686fe45b7fb108690.jpg",
+                "price": 15,
+                "origin_price": 15,
+                "box_num": 1,
+                "box_price": 1,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "32548506",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          },
+          {
+            "id": 779953753,
+            "name": "樱桃黑森林蛋糕",
+            "min_price": 16,
+            "praise_num": 0,
+            "praise_content": "赞0",
+            "tread_num": 0,
+            "praise_num_new": 0,
+            "unit": "个",
+            "description": "",
+            "picture": "http: //p1.meituan.net/wmproductdwm/6034b0d2a2d68e67f0f9ec8667387933301572.jpg",
+            "video_icon": "",
+            "month_saled": 0,
+            "month_saled_content": "",
+            "status": 0,
+            "status_description": "",
+            "status_remind_list": [
+            ],
+            "attrs": [
+            ],
+            "sku_label": "规格",
+            "skus": [
+              {
+                "id": 845371191,
+                "spec": "",
+                "description": "",
+                "picture": "http: //p1.meituan.net/wmproductdwm/6034b0d2a2d68e67f0f9ec8667387933301572.jpg",
+                "price": 16,
+                "origin_price": 16,
+                "box_num": 1,
+                "box_price": 1,
+                "min_order_count": 1,
+                "status": 0,
+                "stock": 0,
+                "real_stock": -1,
+                "activity_stock": 0,
+                "restrict": 0,
+                "promotion_info": "",
+                "promotion": {
+                  "label_pic": "",
+                  "promotion_text": "",
+                  "sku_info_color": "",
+                  "width": 0,
+                  "height": 0
+                }
+              }
+            ],
+            "tag": "32548506",
+            "sequence": 0,
+            "promotion_info": "",
+            "promotion": {
+              "label_pic": "",
+              "promotion_text": "",
+              "sku_info_color": "",
+              "width": 0,
+              "height": 0
+            },
+            "activity_tag": "",
+            "share_tip": {
+              "channels": [
+              ],
+              "description": "",
+              "description_icon": "",
+              "share_button_icon": "",
+              "activity_id": 0,
+              "share_info": {
+                "icon": "",
+                "title": "",
+                "content": "",
+                "url": "",
+                "weixin_url": ""
+              }
+            },
+            "activity_type": 0,
+            "activity_policy": {
+              "discount_by_count": {
+                "count": 0,
+                "discount": 1
+              }
+            },
+            "friends_praise_content": "",
+            "friends_nickname_praise_content": "",
+            "product_label_picture": "",
+            "product_label_picture_list": [
+            ],
+            "log_field": {
+              "product_label_type_list": [
+              ],
+              "recommend_label_type": 0
+            },
+            "label_text": "",
+            "activity_tag_id": ""
+          }
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "64723576",
+        "name": "生日蛋糕",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 5,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "亲～订蛋糕请提前2小时下单预订哦",
+        "sequence": 10,
+        "activity_tag": "",
+        "spus": [
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "63467576",
+        "name": "零食",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 2,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 13,
+        "activity_tag": "",
+        "spus": [
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      },
+      {
+        "tag": "63481240",
+        "name": "蛋糕配件",
+        "icon": "",
+        "big_pic_url": "",
+        "current_page": 0,
+        "has_next_page": true,
+        "product_count": 2,
+        "type": 1,
+        "selected": 0,
+        "tag_description": "",
+        "description": "",
+        "sequence": 18,
+        "activity_tag": "",
+        "spus": [
+        ],
+        "tags": [
+        ],
+        "buzType": 0,
+        "activity_info": {
+          "activity_text": "",
+          "scheme_url": "",
+          "icon_url": ""
+        }
+      }
+    ],
+    "poi_info": {
+      "id": 555344566051241,
+      "name": "85度C（惠城鹅岭店）",
+      "distance": "",
+      "status": 1,
+      "shipping_time": "",
+      "shipping_fee": 3,
+      "avg_delivery_time": 30,
+      "min_price": 30,
+      "bulletin": "美团外卖暂不支持会员积分，敬请谅解！",
+      "discounts2": [
+      ],
+      "app_delivery_tip": "",
+      "support_pay": 0,
+      "invoice_support": 0,
+      "is_favorite": 0,
+      "can_use_coupon": 1,
+      "remind_infos": [
+      ],
+      "buz_type": 0,
+      "buz_code": 0,
+      "wm_poi_score": 0,
+      "poi_back_pic_url": "http: //p0.meituan.net/aichequan/0e2d7b2528752481e50740b0005637bc192146.png",
+      "pic_url": "http: //p1.meituan.net/waimaipoi/f7b4ff730e90807900799b95a7c998eb8969.jpeg",
+      "delivery_type": 0,
+      "is_meituan_delivery": true,
+      "origin_shipping_fee_tip": "",
+      "shipping_fee_tip": "配送 ¥3",
+      "min_price_tip": "起送 ¥30",
+      "delivery_time_tip": "30分钟",
+      "discount_restrict": 0,
+      "restrict_toast": "",
+      "share_tip": {
+        "channels": [
+          2,
+          3
+        ],
+        "description": "商家配送范围有限，建议分享给您附近的朋友",
+        "description_icon": "",
+        "share_button_icon": "",
+        "activity_id": 0,
+        "share_info": {
+          "icon": "http: //p1.meituan.net/waimaipoi/f7b4ff730e90807900799b95a7c998eb8969.jpeg",
+          "title": "85度C（惠城鹅岭店）",
+          "content": "美好的东西只想与你一起分享。美团外卖85度C（惠城鹅岭店）",
+          "url": "http: //i.waimai.meituan.com/external/poi/555344566051241?utm_source=5913&wmi_from=cpoiinfo&user_id=0",
+          "weixin_url": "pages/external/poi?poi_id=555344566051241&user_id=0&utm_source=7004"
+        }
+      },
+      "has_poi_env": false,
+      "shipping_fee_type": 2,
+      "poi_sell_status": 1,
+      "score": 0,
+      "comment_number": 0,
+      "head_pic_url": "",
+      "promotion_head_pic_url": "",
+      "story_info": {
+        "poi_logo_icon": "",
+        "poi_tab_icon": "",
+        "entrance_url": ""
+      },
+      "extraStatInfo": ""
+    },
+    "shopping_cart": {
+      "shopping_cart_icon": "http: //p1.meituan.net/xianfu/1669ccd23689b41d5fcc6e1de35971d48843.png",
+      "empty_shopping_cart_icon": "http: //p0.meituan.net/xianfu/65af01c66706b695f4b4ea25cab5c8b96779.png",
+      "shipping_fee_cart_tip": "另需配送费¥3",
+      "activity_info": null,
+      "self_delivery_tip": "",
+      "bg_color": "",
+      "prompt_text": "",
+      "min_fee_cart_tip": 21,
+      "full_minus_grad": "0.9"
+    },
+    "friend_status": 4
+
+  },
+
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "search_poi_list_total": 1,
+    "search_poi_list": [
+      {
+        "id": 527805235872653,
+        "name": "GT BAR",
+        "status": 1,
+        "status_desc": "",
+        "pic_url": "http: //p0.meituan.net/waimaipoi/902b82a0fa04f6e757d2e307d85db0f384279.png@152w_114h_1e_1c",
+        "month_sales_tip": "月售9",
+        "wm_poi_score": 0,
+        "distance": "41m",
+        "poi_type_icon": "",
+        "poi_promotion_pic": "",
+        "delivery_type": 1,
+        "delivery_time_tip": "30分钟",
+        "shipping_fee_tip": "配送 ¥2",
+        "origin_shipping_fee_tip": "",
+        "min_price_tip": "起送 ¥15",
+        "average_price_tip": "人均 ¥13",
+        "self_delivery_icon": "",
+        "story_icon": "",
+        "is_favorite": 0,
+        "third_category": "咖啡",
+        "closing_tips": "",
+        "scheme": "",
+        "log_field": {
+          "poi_type_icon_type": 0,
+          "recommend_type": 0,
+          "average_delivery_time": 0,
+          "search_log_id": "32503908879109267"
+        },
+        "search_result_type": 0,
+        "product_list": [
+        ],
+        "product_show_type": 1,
+        "product_size": 0,
+        "source_type": "SEARCH",
+        "ad_type": 0,
+        "charge_info": "",
+        "search_show_type": 0,
+        "city_delivery_desc": ""
+      }
+    ]
+  }
+}

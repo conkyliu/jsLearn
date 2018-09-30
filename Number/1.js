@@ -32,7 +32,26 @@
 // }    //以固定点或指数表示形式返回一个字符串，该数字表示指定精度的数字。
 // console.log(aa(1.2));
 // console.log(aa(0.12));
-// console.log(aa(12));
-
-
-
+// console.log(aa(12)
+var d=new Date();
+var h =d.getHours();
+var t=Math.round(d.getMinutes()+30);
+if(t>60){
+    h+1;
+    t=t-60
+}
+var m = h;
+var n = t;
+var arr=[];
+for(var i=0;i<72;i++){
+    n+=20;
+    if(n>50){
+        n = 0;
+        m+=1
+    }
+    if(m>23){
+        break;
+    }
+    arr.push((m>9?m:"0"+m)+":"+(n>9?n:"0"+n));
+}
+console.log(t,arr)

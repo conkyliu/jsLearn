@@ -297,39 +297,180 @@
 // var person2=aa(person);
 // person2.sayhi();
 //寄生组合式继承:
-function aa(cc,bb){
-    var ii=Object(bb.prototype);  //创建对象
-    ii.constructor=cc;            //增强对象
-    cc.prototype=ii;              //指定对象
-}
-function bb(name){
-    this.name=name;
-    this.color=["red","blue","green"];
+// function aa(cc,bb){
+//     var ii=Object(bb.prototype);  //创建对象
+//     ii.constructor=cc;            //增强对象
+//     cc.prototype=ii;              //指定对象
+// }
+// function bb(name){
+//     this.name=name;
+//     this.color=["red","blue","green"];
+//
+// }
+// bb.prototype.sayname=function(){
+//     alert(this.name);
+// };
+// function cc(name,age){
+//     bb.call(this,name); //继承bb.name
+//     this.age=age;
+// }
+// aa(cc,bb);
+// cc.prototype.sayage=function(){
+//     alert(this.age)
+// };
+// var dd=new cc("conky",22);
+// dd.color.push("black");
+// alert(dd.color);
+// dd.sayname();
+// dd.sayage();
+// var ff= new bb("liu",66);
+// alert(ff.color);
+// ff.sayname();
+// ff.sayage(); //undifined bb没有这个属性 cc不共享
+//
 
-}
-bb.prototype.sayname=function(){
-    alert(this.name);
-};
-function cc(name,age){
-    bb.call(this,name); //继承bb.name
-    this.age=age;
-}
-aa(cc,bb);
-cc.prototype.sayage=function(){
-    alert(this.age)
-};
-var dd=new cc("conky",22);
-dd.color.push("black");
-alert(dd.color);
-dd.sayname();
-dd.sayage();
-var ff= new bb("liu",66);
-alert(ff.color);
-ff.sayname();
-ff.sayage(); //undifined bb没有这个属性 cc不共享
+//枚举对象的所有属性:
+/*for...in 循环*/
+// var obj = {a: 1, b: 2, c: 3};
+// for (var aa in obj) {
+//     console.log(aa)//打印属性名;
+//     console.log(obj[aa])//打印属性值
+// };
+/*Object.keys(o)*/
+// var arr=["a","b","c"];
+// console.log(Object.keys(arr))//打印出属性名的位置
+// var obj={a:1,b:2,c:3};
+// console.log(Object.keys(obj)); //打印属性名
+
+//创建新对象:
+/*使用 Object.create 方法*/
+// var Animal = {
+//     type: "aadd",
+//     displaytype: function () {
+//         console.log(this.type)
+//     }
+// };
+// var animall = Object.create(Animal);
+// animall.displaytype();
+// var fish = Object.create(Animal);
+// fish.type = "yu";
+// fish.displaytype();
+/*稳妥构造函数模式*/
+// function Person(name,old,job) {
+//     var o= new Object()
+//     o.sayname=function(){
+//         alert(name)
+//     };
+//     return o;
+// }
+// var man= Person("conky",23,"lerner");
+// man.sayname();
+// var man2=Object.create(man);
 
 
 
 
+// // Warn if overriding existing method
+// if(Array.prototype.equals)
+//     console.warn("Overriding existing Array.prototype.equals. Possible causes: New API defines the method, there's a framework conflict or you've got double inclusions in your code.");
+// // attach the .equals method to Array's prototype to call it on any array
+// Array.prototype.equals = function (array) {
+//     // if the other array is a falsy value, return
+//     if (!array)
+//         return false;
+//     // compare lengths - can save a lot of time
+//     if (this.length != array.length)
+//         return false;
+//     for (var i = 0, l = this.length; i < l; i++) {
+//         // Check if we have nested arrays
+//         if (this[i] instanceof Array && array[i] instanceof Array) {
+//             // recurse into the nested arrays
+//             if (!this[i].equals(array[i]))
+//                 return false;
+//         }
+//         else if (this[i] != array[i]) {
+//             // Warning - two different object instances will never be equal: {x:20} != {x:20}
+//             return false;
+//         }
+//     }
+//     return true;
+// }
+// // Hide method from for-in loops
+// Object.defineProperty(Array.prototype, "equals", {enumerable: false});
 
+// const compare = (() => {
+// //     function compareArray(a, b) {
+// //         console.log("array", a, b);
+// //         if (a.length !== b.length) {
+// //             return false;
+// //         }
+// //         const length = a.length;
+// //         for (let i = 0; i < length; i++) {
+// //             if (!compare(a[i], b[i])) {
+// //                 return false;
+// //             }
+// //         }
+// //
+// //         return true;
+// //     }
+// //
+// //     function compareObject(a, b) {
+// //         console.log("object", a, b);
+// //         const keya = Object.keys(a);
+// //         const keyb = Object.keys(b);
+// //
+// //         if (keya.length !== keyb.length) {
+// //             return false;
+// //         }
+// //
+// //         return keya.every(key => {
+// //             if (!compare(a[key], b[key])) {
+// //                 return false;
+// //             }
+// //             return true;
+// //         });
+// //     }
+// //
+// //     function compare(a, b) {
+// //         if (a === b) {
+// //             return true;
+// //         }
+// //
+// //         if (typeof a !== typeof b || a === null || b === null) {
+// //             return false;
+// //         }
+// //
+// //         if (Array.isArray(a)) {
+// //             if (!Array.isArray(b)) {
+// //                 return false;
+// //             }
+// //             return compareArray(a, b);
+// //         }
+// //
+// //         if (typeof a === "object") {
+// //             return compareObject(a, b);
+// //         }
+// //
+// //         console.log("value", a, b);
+// //         return false;
+// //     }
+// //
+// //     return compare;
+// // })();
+// //
+// //
+// // var aa = [{ Name: "YuanXP", Id: 9 }, { Name: "YuanX", Id: 9 }];
+// // var bb = [{ Name: "YuanXP", Id: 9 }, { Id: 9, Name: "YuanX" }];
+// // var cc = [{ Name: "YuanXP", Id: 19 }, { Id: 9, Name: "YuanX" }];
+// //
+// // // console.log(compare(aa, bb));
+// // // console.log(compare(aa, cc));
+// //
+// // var arr1=[1,200,100];
+// // var arr2=[100,108,102,,1000,200,1];
+// // console.log(compare(arr1,arr2));
+// // alert(arr2.sort())
 
+var attr=new Array(4);
+attr.splice(2,1,'qq');
+console.log(attr)
