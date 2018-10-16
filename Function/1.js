@@ -558,6 +558,7 @@
 // // var text=document.createTextNode('新建的段落文本');
 // // para.appendChild(text);
 // // document.getElementById('div').appendChild(para);
-var str = 'FB020D0A';
+//var str = 'FB020D0A';
+//
+//alert(str.match(/[0-9a-f]{2}/gi));
 
-alert(str.match(/[0-9a-f]{2}/gi));
